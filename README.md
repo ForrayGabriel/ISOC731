@@ -2,4 +2,4 @@
 
 Here is our projet: Network formation games
 
-You can visualize it opening the .html file
+You can visualize it opening the Projet.html
